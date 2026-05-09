@@ -1,0 +1,9 @@
+{
+  "name": "mothers-day-surprise",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "check": "node --check src/main.js"
+  }
+}
